@@ -1,0 +1,153 @@
+/* you can add to or change this. */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+  background-image: url("intro-ufo.jpeg");
+  background-color: black;
+  background-size: cover;
+}
+
+#landingPage {
+  height: 100vh;
+  padding: 20px;
+  font-family: 'Six Caps';
+  letter-spacing: 7px;
+  text-align: center;
+  color: whitesmoke;
+  border: 10px;
+  text-shadow: 5px 10px 20px black;
+}
+
+h1 {
+  font-size:90px;
+}
+h3 {
+  font-size:50px;
+}
+
+h2 {
+  font-size:40px;
+}
+
+button {
+  z-index: 1;
+  box-shadow: 5px 10px 20px black;
+  border-radius: 25px;
+  font-size: 30px;
+  font-family: 'Six Caps';
+  letter-spacing: 7px;
+  color: white;
+  background-color: black;
+  width: 150px;
+  height: 70px;
+  cursor: pointer;
+  position: sticky;
+  top: 0;
+  text-align: center;
+  vertical-align:middle;
+}
+
+a {
+  z-index: 100;
+}
+
+#game {
+  margin: 10px;
+  height: 50vh;
+  width: 100vw;
+  height: 80vh;
+  padding: 10px;
+  border-radius: 25px;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.7);
+  text-align: center;
+  display:table-cell;
+  vertical-align:middle;
+}
+
+#game div{
+  border-radius: 25px;
+  width: 130px;
+  height: 130px;
+  margin: 20px;
+  display: inline-block;
+  box-shadow: 5px 10px 20px #888888;
+}
+
+.cardBack:hover {
+  filter: brightness(75%);
+  cursor: pointer;
+  border: 1px darkgrey;
+}
+
+.alien{
+  background-image: url("alien.jpeg");
+  background-color: lightgray;
+  background-size: cover;
+}
+
+.mrX {
+  background-image: url("mrX.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.introFace {
+  background-image: url("intro-face.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.introParanormal {
+  background-image: url("intro-paranormal.png");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.loneGunmen {
+  background-image: url("lone-gunmen.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.mulder {
+  background-image: url("mulder.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.queequeg {
+  background-image: url("queequeg.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.scully {
+  background-image: url("scully.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.skinner {
+  background-image: url("skinner.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.smokingMan {
+  background-image: url("smoking-man.jpeg");
+  background-color:  light grey;
+  background-size: cover;
+}
+
+.cardBack {
+  background-image: url("intro-truth.jpg");
+  background-color: light grey;
+  background-size: cover;
+}
