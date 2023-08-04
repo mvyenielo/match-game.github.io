@@ -1,4 +1,3 @@
-/* you can add to or change this. */
 html {
   scroll-behavior: smooth;
 }
@@ -94,60 +93,60 @@ a {
 
 .mrX {
   background-image: url("mrX.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .introFace {
   background-image: url("intro-face.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .introParanormal {
   background-image: url("intro-paranormal.png");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .loneGunmen {
   background-image: url("lone-gunmen.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .mulder {
   background-image: url("mulder.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .queequeg {
   background-image: url("queequeg.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .scully {
   background-image: url("scully.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .skinner {
   background-image: url("skinner.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .smokingMan {
   background-image: url("smoking-man.jpeg");
-  background-color:  light grey;
+  background-color:  lightgray;
   background-size: cover;
 }
 
 .cardBack {
   background-image: url("intro-truth.jpg");
-  background-color: light grey;
+  background-color: lightgray;
   background-size: cover;
 }
